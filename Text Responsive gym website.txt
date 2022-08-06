@@ -1,0 +1,217 @@
+========== HEADER ==========
+.nav__logo
+BEROTOT
+
+.nav__link
+Home
+
+Program
+
+Choose Us
+
+Pricing
+
+.nav__button
+Register Now
+
+
+========== HOME ==========
+.home__subtitle
+MAKE YOUR
+
+.home__title
+BODY SHAPE
+
+.home__description
+In here we will help you to shape and build your ideal 
+body and live your life to the fullest.
+
+.button
+Get Started
+
+
+========== PROGRAM ==========
+.section__subtitle
+Our Program
+
+.section__title-border
+BUILD YOUR
+
+.section__title
+BEST BODY
+
+.program__title | .program__description
+Flex Muscle
+Creating tension that's temporarily making the muscle 
+fibers smaller or contracted.
+
+Cardio Exercise
+Exercise your heart rate up and keeps it 
+up for a prolonged period of time.
+
+Basic Yoga
+Diaphragmatic this is the most common breathing 
+technique you'll find in yoga.
+
+Weight Lifting
+Attempts a maximum weight single lift of a 
+barbell loaded with weight plates.
+
+
+========== CHOOSE US ==========
+.section__subtitle
+Best Reason
+
+.section__title-border
+WHY
+
+.section__title
+CHOOSE US ?
+
+.choose__description
+Choose your favorite class and start now. Remember the 
+only bad workout is the one you didn't do.
+
+.choose__number | .choose__subtitle
+200+
+Total Members
+
+50+
+Best trainers
+
+25+
+Programs
+
+100+
+Awards
+
+
+========== PRICING ==========
+.section__subtitle
+Pricing
+
+.section__title-border
+OUR
+
+.section__title
+SPECIAL PLAN
+
+.pricing__title | .pricing__number
+BASIC PACKAGE
+$120
+
+PREMIUM PACKAGE
+$240
+
+DIAMOND PACKAGE
+$420
+
+.pricing__item
+5 Days In A Week
+
+01 Sweatshirt
+
+01 Bottle of Protein
+
+Access to Videos
+
+Muscle Stretching
+
+.pricing__button
+Purchase Now
+
+
+========== CALCULATE  ==========
+.section__title-border
+CALCULATE
+
+.section__title
+YOUR BMI
+
+.calculate__description
+The body mass index (BMI) calculator calculates 
+body mass index from your weight and height.
+
+.button
+Calculate Now
+
+* CALCULATE JS *
+// Check if the fields have a value
+	// Add and remove color
+	// Show message
+		Fill in the Height and Weight
+	// Remove message three seconds
+
+// BMI Formula
+
+// Show your health status
+	// Add color and display message
+		Your BMI is and you are skinny
+		Your BMI is and you are healthy
+		Your BMI is and you are overweight
+
+// To clear the input field
+
+// Remove message four seconds
+
+
+========== FOOTER ==========
+.footer__logo
+BEROTOT
+
+.footer__description
+Subscribe for company <br> updates below.
+
+.button
+Subscribe
+
+.footer__title | .footer__link
+SERVICES
+Flex Muscle
+Cardio Exercise
+Basic Yoga
+Weight Lifting
+
+PRICING
+Basic
+Premium
+Diamond
+
+COMPANY
+About Us
+Careers
+Customers
+Partners
+
+.footer__social-link
+https://www.facebook.com/
+https://twitter.com/
+https://www.instagram.com/
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
+
+
+* FOOTER EMAIL JS *
+// Check if the field has a value
+	// Add and remove color
+
+	// Show message
+		You must enter your email
+
+	// Remove message three seconds
+
+// serviceID - templateID - #form - publicKey
+
+// Show message and add color
+	You registered successfully
+
+// Remove message after three seconds
+
+// Mail sending error
+	OOPS! SOMETHING HAS FAILED...
+
+// To clear the input field
+
+
+
